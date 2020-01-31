@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Andrea Bonacin - Portfolio"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Andrea Bonacin"
 description              : "My Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -29,7 +29,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Andrea Bonacin"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sofware Engineer"
+  bio              : "Software Engineer"
   location         : "Treviso, IT"
   email            : "andrea.bonacin@tutanota.it"
   uri              :
