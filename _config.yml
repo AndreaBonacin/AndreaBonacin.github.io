@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrea Bonacin"
+title                    : "Andrea Bonacin - Portfolio"
 title_separator          : "-"
 name                     : "Andrea Bonacin"
 description              : "My Data Science Portfolio"
