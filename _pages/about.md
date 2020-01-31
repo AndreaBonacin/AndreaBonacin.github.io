@@ -1,10 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Hi, I’m Andrea Bonacin. I am a full-time developer who specializes in:
+* Machine Learning
+* Networking
+* IoT
