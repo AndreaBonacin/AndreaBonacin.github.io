@@ -5,10 +5,10 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Hi, I’m Andrea Bonacin.
+**<center><big>Hi, I’m Andrea Bonacin.</big></center>**
 
-I am a full-time developer who specializes in:
+<center><big>I am a full-time developer who specializes in:</center></big>
+
 * Machine Learning
 * Networking
 * IoT
-* Cats
