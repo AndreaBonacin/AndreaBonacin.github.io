@@ -2,8 +2,8 @@
 title: "Contact"
 permalink: /contact/
 ---
-
-## <center>ASK FOR A MEETING:</center>
+## <center><span style="color:red">Don't be a stranger</span>.</center>
+## <center>JUST SAY HELLO</center>
 
 <form
   action="https://formspree.io/moqdjoek"
