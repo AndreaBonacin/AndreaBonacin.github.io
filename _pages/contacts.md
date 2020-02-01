@@ -3,7 +3,7 @@ title: "Contact"
 permalink: /contact/
 ---
 <center><span style="color:blue">Don't be a stranger</span></center>
-<br>
+
 <center>just say hello.</center>
 <br>
 <br>
