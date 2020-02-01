@@ -5,7 +5,8 @@ permalink: /contact/
 <center><span style="color:blue">Don't be a stranger</span></center>
 <br>
 <center>just say hello.</center>
-
+<br>
+<br>
 
 Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities.
 
