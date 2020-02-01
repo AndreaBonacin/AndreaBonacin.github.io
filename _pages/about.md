@@ -12,3 +12,9 @@ header:
 * Machine Learning
 * Networking
 * IoT
+* UNIX
+
+*<big>Here some of my hobbies:</big>*
+
+* Terminal Text-based Games
+* Instant Messaging Bots
