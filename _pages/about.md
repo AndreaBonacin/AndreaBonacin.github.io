@@ -7,7 +7,7 @@ header:
 
 **<center><big>Hi, I’m Andrea Bonacin.</big></center>**
 
-<big>I am a full-time developer who specializes in:</big>
+*<big>I am a full-time developer who specializes in:</big>*
 
 * Machine Learning
 * Networking
