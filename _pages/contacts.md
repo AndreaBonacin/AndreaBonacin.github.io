@@ -1,17 +1,6 @@
 ---
 title: "Contacts"
 permalink: /contacts/
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
-categories:
-  - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
-toc: true
 ---
 
 ## Forms
