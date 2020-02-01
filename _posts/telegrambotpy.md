@@ -4,7 +4,7 @@ date: 2018-01-28
 tags: [Telegram, bot, API, Python]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Telegramg, Bot, API, Python"
+excerpt: "Telegram, Bot, API, Python"
 mathjax: "true"
 ---
 
