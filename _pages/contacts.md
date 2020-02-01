@@ -1,5 +1,6 @@
 ---
 title: "Markup: HTML Tags and Formatting"
+permalink: /contacts/
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
