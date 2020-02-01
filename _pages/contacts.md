@@ -1,5 +1,5 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "Contacts"
 permalink: /contacts/
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
