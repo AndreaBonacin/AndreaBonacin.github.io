@@ -4,8 +4,8 @@ permalink: /contact/
 ---
 
 <center><font size=44 color="#0083B6">Don't be a stranger</font></center>
-
 <center><font size=44>just say hello.</font></center>
+
 <br>
 <br>
 
