@@ -3,11 +3,11 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Forms
+## <center>ASK FOR A MEETING:</center>
 
 <form>
   <fieldset>
-    <legend>ASK FOR A MEETING:</legend>
+    <legend></legend>
     Name: <input type="text" size="30"><br>
     Surname: <input type="text" size="30"><br>
     Company: <input type="text" size="30"><br>
