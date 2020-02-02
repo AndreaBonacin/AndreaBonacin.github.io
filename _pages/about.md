@@ -10,7 +10,7 @@ header:
 > # _**<center><big><big>"Hi, I’m Andrea Bonacin".</big></big></center>**_
 
 <br>
-
+*<big>I am a full-time developer who specializes in:</big>*
 * Machine Learning
 * Networking
 * IoT
@@ -20,4 +20,4 @@ header:
 
 * Terminal Text-based Games
 * Instant Messaging Bots
-
+* Raspberry Pi & Arduino projects
