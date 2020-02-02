@@ -2,6 +2,7 @@ minimal_mistakes_skin    : "air" # "dafault", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
+masthead_title           : "My Custom Title"
 title                    : "Andrea Bonacin"
 title_separator          : "|"
 name                     : "Andrea Bonacin"
@@ -11,7 +12,6 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AndreaBonacin/AndreaBonacin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-# masthead_title         : "My Custom Title"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
