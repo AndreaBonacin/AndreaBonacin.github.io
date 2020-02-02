@@ -3,15 +3,6 @@ title: "About Me"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
-categories:
-  - Markup
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
-toc: true
 ---
 <br>
 
