@@ -1,5 +1,5 @@
 ---
-title: "Simple HTTP "
+title: "Simple HTTP client "
 date: 2020-02-02
 tags: [C, UNIX, Networking]
 header:
