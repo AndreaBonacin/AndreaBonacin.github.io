@@ -22,3 +22,4 @@ header:
 * Terminal Text-based Games
 * Instant Messaging Bots
 * Raspberry Pi & Arduino projects
+* Algorithms & Data Structures
