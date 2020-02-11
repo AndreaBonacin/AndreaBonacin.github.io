@@ -24,6 +24,6 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 </form>
 
